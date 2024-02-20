@@ -4,6 +4,7 @@
     "type": "library",
     "license": "MIT",
     "require": {},
+	"minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Relesssar\\Jpay\\":"src/"
